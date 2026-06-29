@@ -2,6 +2,22 @@
 
 All notable changes to `laravel-rdap` will be documented in this file.
 
+## 1.4.1 - 2026-06-29
+
+### What's Changed
+
+* Bump ramsey/composer-install from 3 to 4 by @dependabot[bot] in https://github.com/spatie/laravel-rdap/pull/53
+* Bump dependabot/fetch-metadata from 2.5.0 to 3.0.0 by @dependabot[bot] in https://github.com/spatie/laravel-rdap/pull/54
+* Bump dependabot/fetch-metadata from 3.0.0 to 3.1.0 by @dependabot[bot] in https://github.com/spatie/laravel-rdap/pull/55
+* Bump actions/checkout from 6 to 7 by @dependabot[bot] in https://github.com/spatie/laravel-rdap/pull/56
+* Return null dates for objects without events by @Grendel7 in https://github.com/spatie/laravel-rdap/pull/57
+
+### New Contributors
+
+* @Grendel7 made their first contribution in https://github.com/spatie/laravel-rdap/pull/57
+
+**Full Changelog**: https://github.com/spatie/laravel-rdap/compare/1.4.0...1.4.1
+
 ## 1.4.0 - 2026-03-06
 
 ### What's Changed
