@@ -2,6 +2,18 @@
 
 All notable changes to `laravel-rdap` will be documented in this file.
 
+## 1.4.2 - 2026-08-23
+
+### What's Changed
+
+* Allow Guzzle 8 by @ziming in https://github.com/spatie/laravel-rdap/pull/58
+
+### New Contributors
+
+* @ziming made their first contribution in https://github.com/spatie/laravel-rdap/pull/58
+
+**Full Changelog**: https://github.com/spatie/laravel-rdap/compare/1.4.1...1.4.2
+
 ## 1.4.1 - 2026-06-29
 
 ### What's Changed
